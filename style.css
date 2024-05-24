@@ -1,33 +1,5 @@
 body {
-    background-image: url(./i.webp);
-    background-repeat: no-repeat;
-    background-size: 1200px 700px;
-}
-.box {
-    width: 350px;
-    height: 250px;
-    background-color: white;
-    margin: auto ; 
-    margin-top: 100px;
-    padding: 15px;
-}
-h1 {
-    color: blue;
-}
-.a {
-    background-color: blue;
-    color: white;
-    border-radius: 3px;
-    width: 150px;
-    height: 30px;
-    margin-right: 10px;
-}
-.b {
-    background-color: white;
-    border: 2px solid blue;
-    color: blue;
-    width: 150px;
-    height: 30px;
-    border-radius: 3px;
-    
+    height: 400px;
+    background: rgb(38,163,228);
+background: linear-gradient(148deg, rgba(38,163,228,1) 35%, rgba(6,164,21,1) 56%, rgba(144,187,5,1) 67%, rgba(216,20,3,1) 81%);
 }
